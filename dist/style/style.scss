@@ -1,0 +1,55 @@
+body {
+	font-family: sans-serif;
+	background-color: black;
+}
+
+input {
+	display: block;
+	margin: 0 0 10px 10px;
+}
+
+#top {
+	height: 300px;
+}
+
+#info {
+	position: relative;
+	top: 50%;
+
+		#submit-div {
+			width: 215px;
+			height: 50px;
+
+				#sign-in {
+					background-color: #46b800;
+					padding: 5px;
+					height: 25px;
+					width: 65px;
+					text-align: center;
+					border: 1px solid white;
+					border-radius: 5px;
+					color: white;
+					float: right;
+				}
+		}
+
+		#submit-div {
+			width: 215px;
+			height: 50px;
+		}
+
+		#input-div {
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+	}
+
+.label {
+	margin-bottom: 10px;
+	}
+
+#info {
+	position: relative;
+	top: 50%;
+	}
